@@ -6,4 +6,8 @@ then you will get some random words and jumbled then you have to guess what word
 
 if you correct, you will get 100 points, else you got -100.
 
+
+for running this program just type:
+
+go run main.go
  
